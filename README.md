@@ -1,7 +1,11 @@
-# Louis Van Sanden
+Louis Van Sanden
+====================
 
-- Student KULeuven: Engineering Science
+- Student at KULeuven: Engineering Science
 - 3th Bachelor - Electrical Engineering & Computer Science
+
+- Contact: 
+  - louis.vansandencampos@student.kuleuven.be
 
 <!--
 **louisvansanden/louisvansanden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
