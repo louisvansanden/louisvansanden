@@ -1,7 +1,7 @@
 # Louis Van Sanden
 
-## Information
-Tekst 
+- Student KULeuven: Engineering Science
+- 3th Bachelor - Electrical Engineering & Computer Science
 
 <!--
 **louisvansanden/louisvansanden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
