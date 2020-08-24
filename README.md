@@ -8,14 +8,11 @@ Louis Van Sanden
   - louis.vansandencampos@student.kuleuven.be
   
 - Skills: 
-  - [X] Python
-  - [X] Java
-  - [X] MySQL
-  - [X] HTML
-  - [X] JavaScript
-  - [X] CSS
-  - [X] PHP
-  - [X] React.js
+| - [X] Python    | - [X] JavaScript
+| - [X] Java      | - [X] CSS
+| - [X] MySQL     | - [X] PHP
+| - [X] HTML      | - [X] React.js
+  
   - [X] React Native
   - [X] Android Studio
   - [X] Linux
