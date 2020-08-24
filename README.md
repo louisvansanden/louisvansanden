@@ -6,6 +6,22 @@ Louis Van Sanden
 
 - Contact: 
   - louis.vansandencampos@student.kuleuven.be
+  
+- Skills: 
+  - [X] Python
+  - [X] Java
+  - [X] MySQL
+  - [X] HTML
+  - [X] JavaScript
+  - [X] CSS
+  - [X] PHP
+  - [X] React.js
+  - [X] React Native
+  - [X] Android Studio
+  - [X] Linux
+  - [X] MQTT
+  - [X] Arduino
+  - [X] Git
 
 <!--
 **louisvansanden/louisvansanden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
