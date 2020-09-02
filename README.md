@@ -1,11 +1,11 @@
 Louis Van Sanden
 ====================
 
-- Student at KULeuven: Engineering Science
-- 3th Bachelor - Electrical Engineering & Computer Science
+- **Student at KULeuven:** Engineering Science
+- 3th Bachelor - Computer Science and Electrical Engineering
 
 - Contact: 
-  - louis.vansandencampos@student.kuleuven.be
+  - 📫 louis.vansandencampos@student.kuleuven.be
   
 - Skills: 
   
